@@ -12,6 +12,7 @@ The sweetness that constitutes our cute elements is tastefully expressed through
 Please rest assured that while the underlying philosophy and technical foundation have been completely overhauled, the extensive customization features you expect remain fully intact.
 
 ## Overview
+![Kawaiintu Background](themes/background.jpg)
 A cute, integrated custom theme package for Ubuntu (GTK 4.0). Inspired by the Moebuntu concept, this "mifjpn's original" edition features unique color variations and custom graphical assets.
 
 ## Features
