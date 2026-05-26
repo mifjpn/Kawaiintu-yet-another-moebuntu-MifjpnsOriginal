@@ -1,2 +1,33 @@
-# Kawaiintu-yet-another-moebuntu-MifjpnsOriginal
-Official artwork, sounds, and GTK theme assets for Kawaiiuntu OS (A Moebuntu-inspired project).
+# Kawaiintu - Yet Another Moebuntu
+
+## Overview
+A cute, integrated custom theme package for Ubuntu (GTK 4.0). Inspired by the Moebuntu concept, this "mifjpn's original" edition features unique color variations and custom graphical assets.
+
+## Features
+* **Multiple Color Variations**: 9 colors available (Pink, Blue, Cyan, Green, Lime, Orange, Purple, Red, Rose) to completely customize your system's look.
+* **Original Character Banners**: Includes 8 motif banners (Cat, Penguin, Frog, Fox, Wolf, Sprout, Butterfly, Deer) for UI accents.
+* **Custom System Sounds**: Features original system sounds, including standard Moesound and maid voice packs.
+* **Total Coordination**: Comes with a dedicated custom icon pack (`KawaiintuIcon`) and custom boot screen themes (`plymouth`) for a consistent desktop experience.
+
+## Directory Structure
+* `banner/`: Original banner images (PNG)
+* `icons/`: Kawaiintu custom icon pack (`.tar.xz`)
+* `plymouth/`: Custom boot screen (Plymouth) themes
+* `sound/`: System sound archives
+* `themes/`: GTK theme archives and background wallpapers
+
+## Installation
+1. Clone or download this repository.
+2. Extract the archives in the `themes/` directory to your `~/.themes/` or `/usr/share/themes/` folder.
+3. Extract the archives in the `icons/` directory to your `~/.icons/` or `/usr/share/icons/` folder.
+4. Use GNOME Tweaks or your preferred desktop appearance tool to apply the theme and icons.
+
+## License
+This project uses separate licenses for software components and multimedia assets:
+* **Code, Scripts, and Configurations**: MIT License
+* **Media Assets (Images, Icons, Banners, and Sounds)**: CC BY-SA 4.0
+
+Please refer to [`LICENSE.md`](LICENSE.md) for full details.
+
+## Author
+mifjpn
